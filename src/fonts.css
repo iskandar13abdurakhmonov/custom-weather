@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'SFProDisplayRegular';
+    src: local('SFProDisplayRegular'),
+         url('./fonts/SFProDisplay-Regular.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'SFProDisplayMedium';
+    src: local('SFProDisplayMedium'),
+         url('./fonts/SFProDisplay-Medium.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'SFProDisplaySemibold';
+    src: local('SFProDisplaySemibold'),
+         url('./fonts/SFProDisplay-Semibold.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'SFProDisplayBold';
+    src: local('SFProDisplayBold'),
+         url('./fonts/SFProDisplay-Bold.woff') format('woff')
+}
